@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+scikit-learn
+google-genai
+python-multipart
+pypdf
+pytest
+httpx
